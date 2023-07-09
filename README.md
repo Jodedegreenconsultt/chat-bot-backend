@@ -1,4 +1,4 @@
-# chat-bot-back-end
+# chat-bot-back-end for Jaybot(Msc thesis UoW)
 Chat bot back end repository 
 
 venv : `pyenv exec python -m venv .venv`
